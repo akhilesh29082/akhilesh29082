@@ -188,9 +188,9 @@ Key areas of work included:
 
 <div align="center">
 
-![Akhilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilesh29082\&show_icons=true\&hide_border=true\&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=akhilesh29082&show_icons=true&theme=github_dark&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh29082\&layout=compact\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh29082&layout=compact&theme=github_dark&hide_border=true" height="165" />
 
 </div>
 
@@ -200,7 +200,7 @@ Key areas of work included:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=akhilesh29082)
+<img src="https://streak-stats.demolab.com?user=akhilesh29082&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
